@@ -16,13 +16,13 @@ body {
 /* Links */
 
 a:link, a:visited {
-	color: #fe0081;
+	color: #000d70;
 	text-decoration: none;
 	outline: none;
 }
 
 a:hover {
-	color: #fe0081;
+	color: #000d70;
 	text-decoration: underline;
 }
 
@@ -90,7 +90,7 @@ div.section {
 /* Headings */
 
 div.section h2 {
-	color: #fe0081;
+	color: #000d70;
 	font-size: 36px;
 	font-style: italic;
 	letter-spacing: -1px;
