@@ -55,7 +55,7 @@ div.header h1 {
 div.header h1 span {
 	display: block;
 	font-size: 26px;
-	color: #ff0082;
+	color: #001d66;
 	margin: 5px 0 0 0;
 	letter-spacing: normal;
 }
@@ -163,7 +163,7 @@ div.section ol li h4 {
 }
 
 div.section ol li h5 {
-	color: #ff0081;
+	color: #001d66;
 	font-size: 14px;
 	font-style: italic;
 	font-weight: normal;
